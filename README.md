@@ -1,4 +1,4 @@
-# google_ecommerce_data_project
+## google_ecommerce_data_project
 A data analysis side project for google ecommerce data
 
 This project is the data analysis project for Google Merchandise Store's website's GA data.
